@@ -12,3 +12,12 @@
   - neue Änderungen
 - Projektseite 
   - Videos und Screenshots 
+
+Fertig:
+Tod mit Scoreboard und Text und wiederspawnen
+Bewegung der Blöcke 
+Schuss mit Wegschieben
+Gegenseitiges Schieben
+Collide Edge Sprites 
+Steuerung 
+Gravitation 
