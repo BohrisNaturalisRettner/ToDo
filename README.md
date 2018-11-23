@@ -1,6 +1,6 @@
 # ToDo
 
-- Startseiten designen
+
 - Aufnahmen vom Bildschirm (screenshots von Aktionen)
 - Protokoll 
   - neue Änderungen
