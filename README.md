@@ -30,6 +30,5 @@ Gravitation
 
 
 
-<th><video src="images/textwtodelay.mp4" width="320" height="240" 
-poster="images/textwtodelay.png" width="320" height="240" autobuffer 
+<th><video src="https://github.com/BohrisNaturalisRettner/ToDo/blob/master/IMG_2188.TRIM%20(1).MOV" width="320" height="240" autobuffer 
 controls>
