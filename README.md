@@ -37,4 +37,4 @@ start2.visible = false;
 
 
 
-<video src="https://github.com/BohrisNaturalisRettner/ToDo/blob/master/IMG_2182.TRIM.MOV" width="320" height="240" width="320" height="240" autobuffer controls>
+<video src="https://github.com/BohrisNaturalisRettner/ToDo/blob/master/IMG_2182.TRIM.MOV" width="320" height="240" autobuffer controls>
