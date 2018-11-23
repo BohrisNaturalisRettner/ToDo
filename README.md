@@ -27,7 +27,7 @@ Gravitation
 
 <img src="https://github.com/BohrisNaturalisRettner/ToDo/blob/master/TAstatur%20endg%C3%BCltig.jpg" alt="image" width="1500">  
 
-'''javascript 
+```javascript 
 //startblöcke
 var start1 = createSprite(30, 160);
 start1.setAnimation("Wolke");
@@ -39,4 +39,4 @@ start2.setAnimation("Wolke");
 start2.height = 20;
 start2.width = 60;
 start2.visible = false;
-'''
+```
